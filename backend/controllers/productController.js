@@ -222,5 +222,6 @@ export {
   fetchAllProducts,
   addProductReview,
   fetchTopProducts,
-  fetchNewProducts
+  fetchNewProducts,
+  filterProducts
 };
